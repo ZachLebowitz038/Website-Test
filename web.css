@@ -11,6 +11,7 @@ header {
 
 main {
   background-color: green;
+  border: 1px solid lavender;
   color: black;
   padding: 1em;
   margin: 15px;
