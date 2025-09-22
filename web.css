@@ -12,6 +12,8 @@ header {
 main {
   background-color: green;
   color: black;
+  padding: 1em;
+  margin: 15px;
 }
 
 footer {
