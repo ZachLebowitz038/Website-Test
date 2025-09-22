@@ -2,3 +2,22 @@ body {
   font-family: Helvetica, sans-serif;
   font-size: 16pt;
 }
+
+header {
+  background-color: maroon;
+  color: white;
+}
+
+main {
+  background-color: green;
+  color: black;
+}
+
+footer {
+  background-color: orange;
+  color: black;
+}
+
+nav {
+  background-color: goldenrod;
+}
