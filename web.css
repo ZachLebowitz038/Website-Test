@@ -5,13 +5,14 @@ body {
 
 header {
   background-color: maroon;
+  border-bottom: 1px solid lavender;
   color: white;
   padding: 16pt;
 }
 
 main {
   background-color: green;
-  border: 1px solid lavender;
+  border: 1px blue;
   color: black;
   padding: 1em;
   margin: 15px;
@@ -19,6 +20,7 @@ main {
 
 footer {
   background-color: orange;
+  border-top: 5px solid crimson;
   color: black;
   padding: 1em;
 }
