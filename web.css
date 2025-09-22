@@ -6,6 +6,7 @@ body {
 header {
   background-color: maroon;
   color: white;
+  padding: 16pt;
 }
 
 main {
@@ -16,12 +17,14 @@ main {
 footer {
   background-color: orange;
   color: black;
+  padding: 1em;
 }
 
 nav {
-  background-color: goldenrod;
+  background-color: white;
+  padding: 5px;
 }
 
 a {
-  color: dimgray
+  color: black
 }
